@@ -14,4 +14,6 @@
 	
 	**Te llega un mail para verificar la cuenta.**
 
-1. Colocar el apiKey y mail sender en la seccion correspondiente del codigo.
+1.En el codigo ir a MensajeMailService > configurarYRealizarEnvioMail 
+
+	**Colocar el apiKey y mail sender en la seccion correspondiente del codigo.**
