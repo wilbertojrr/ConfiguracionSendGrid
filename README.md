@@ -14,6 +14,7 @@
 	
 	**Te llega un mail para verificar la cuenta.**
 
-1. En el codigo ir a MensajeMailService > configurarYRealizarEnvioMail 
+1. En el GDE ir a Service > SendGridSmtp
 
 	**Colocar el apiKey y mail sender en la seccion correspondiente del codigo.**
+	**Luego cambiar el valor del Qualifier en la inyeccion de EmailSmtp en la clase MensajeMailService**
